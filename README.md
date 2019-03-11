@@ -1,5 +1,5 @@
 # port_node_to_odbc
-Simle asynchronous wraper for ODBC conections
+Simple asynchronous wraper for ODBC conections
 # requirements
 To run this code on the node.js side you need install first node-edge library
 ``` 
